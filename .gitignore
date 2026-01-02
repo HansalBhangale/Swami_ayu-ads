@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Generated video files
+*.mp4
+temp_scene_*.mp4
+FINAL_SWAMI_AYURVED_AD.mp4
+swami_soap.png
